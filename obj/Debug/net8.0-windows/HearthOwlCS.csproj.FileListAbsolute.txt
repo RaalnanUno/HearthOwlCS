@@ -1,0 +1,15 @@
+C:\source\repos\RaalnanUno\HearthOwlCS\bin\Debug\net8.0-windows\HearthOwlCS.exe
+C:\source\repos\RaalnanUno\HearthOwlCS\bin\Debug\net8.0-windows\HearthOwlCS.deps.json
+C:\source\repos\RaalnanUno\HearthOwlCS\bin\Debug\net8.0-windows\HearthOwlCS.runtimeconfig.json
+C:\source\repos\RaalnanUno\HearthOwlCS\bin\Debug\net8.0-windows\HearthOwlCS.dll
+C:\source\repos\RaalnanUno\HearthOwlCS\bin\Debug\net8.0-windows\HearthOwlCS.pdb
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.AssemblyInfoInputs.cache
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.AssemblyInfo.cs
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.csproj.CoreCompileInputs.cache
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.sourcelink.json
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.dll
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\refint\HearthOwlCS.dll
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.pdb
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\HearthOwlCS.genruntimeconfig.cache
+C:\source\repos\RaalnanUno\HearthOwlCS\obj\Debug\net8.0-windows\ref\HearthOwlCS.dll
